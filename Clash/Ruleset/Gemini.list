@@ -33,3 +33,4 @@ PROCESS-NAME,language_server
 PROCESS-NAME,language_server.exe
 PROCESS-NAME,Antigravity
 PROCESS-NAME,Antigravity.exe
+DOMAIN-SUFFIX,www.gstatic.com
