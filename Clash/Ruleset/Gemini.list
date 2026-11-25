@@ -1,5 +1,5 @@
-# 内容：Google Gemini & Antigravity（含桌面端与CLI接口）
-# 数量：25条
+# 内容：Google Gemini & Antigravity（含桌面端进程与全套接口）
+# 数量：33条
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
@@ -25,3 +25,11 @@ DOMAIN-SUFFIX,businessaicode.googleapis.com
 DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
 DOMAIN-SUFFIX,aiplatform.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,gemini-api-docs-mcp.dev
+DOMAIN,oauth2.googleapis.com
+DOMAIN,www.googleapis.com
+DOMAIN,play.googleapis.com
+PROCESS-NAME,language_server
+PROCESS-NAME,language_server.exe
+PROCESS-NAME,Antigravity
+PROCESS-NAME,Antigravity.exe
