@@ -1,5 +1,5 @@
-# 内容：Google Gemini（更新自 blackmatrix7/ios_rule_script）
-# 数量：13条
+# 内容：Google Gemini & Antigravity（含桌面端与CLI接口）
+# 数量：25条
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
@@ -13,3 +13,15 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,antigravity
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,content-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+DOMAIN-SUFFIX,businessaicode.googleapis.com
+DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
