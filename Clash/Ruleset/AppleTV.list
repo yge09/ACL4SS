@@ -1,5 +1,10 @@
-# 内容：AppleTV
-# 数量：3条
+# 内容：AppleTV（更新自 blackmatrix7/ios_rule_script）
+# 数量：8条
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
+PROCESS-NAME,TV

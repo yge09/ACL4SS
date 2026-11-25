@@ -1,4 +1,4 @@
-# 内容：GoogleEarth 谷歌地球
+# 内容：GoogleEarth（更新自 blackmatrix7/ios_rule_script）
 # 数量：16条
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
 DOMAIN-SUFFIX,earth.google.com
