@@ -1,5 +1,10 @@
-# 内容：GFWList 黑名单（更新自 gfwlist/gfwlist）
-# 数量：4388条
+# 内容：GFWList 黑名单
+# 数量：4416条
+DOMAIN-SUFFIX,*.pimg.tw
+DOMAIN-SUFFIX,*.sf.net
+DOMAIN-SUFFIX,*.tuzaijidi.com
+DOMAIN-SUFFIX,*.wordpress.com
+DOMAIN-SUFFIX,*2.bahamut.com.tw
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,1-apple.com.tw
@@ -63,7 +68,6 @@ DOMAIN-SUFFIX,6parknews.com
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,7x24hrs.com
 DOMAIN-SUFFIX,8-d.com
-DOMAIN-SUFFIX,85.17.73.31
 DOMAIN-SUFFIX,85cc.us
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,89-64.org
@@ -494,6 +498,7 @@ DOMAIN-SUFFIX,borgenmagazine.com
 DOMAIN-SUFFIX,botanwang.com
 DOMAIN-SUFFIX,bowenpress.com
 DOMAIN-SUFFIX,boxpn.com
+DOMAIN-SUFFIX,boxun*.azurewebsites.net
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,boxun.tv
 DOMAIN-SUFFIX,boylove.cc
@@ -614,6 +619,8 @@ DOMAIN-SUFFIX,cdbook.org
 DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
+DOMAIN-SUFFIX,cdn*.i-scmp.com
+DOMAIN-SUFFIX,cdn*.search.xxx
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.arstechnica.net
@@ -661,6 +668,7 @@ DOMAIN-SUFFIX,chengmingmag.com
 DOMAIN-SUFFIX,chenguangcheng.com
 DOMAIN-SUFFIX,chenpokong.com
 DOMAIN-SUFFIX,chenpokongvip.com
+DOMAIN-SUFFIX,chenshan20042005.wordpress.com
 DOMAIN-SUFFIX,cherrysave.com
 DOMAIN-SUFFIX,chhongbi.org
 DOMAIN-SUFFIX,chii.in
@@ -694,6 +702,7 @@ DOMAIN-SUFFIX,chinasocialdemocraticparty.com
 DOMAIN-SUFFIX,chinasoul.org
 DOMAIN-SUFFIX,chinatopsex.com
 DOMAIN-SUFFIX,chinauncensored.tv
+DOMAIN-SUFFIX,chinaview.wordpress.com
 DOMAIN-SUFFIX,chinaworker.info
 DOMAIN-SUFFIX,chinese-memorial.org
 DOMAIN-SUFFIX,chinese.engadget.com
@@ -772,6 +781,7 @@ DOMAIN-SUFFIX,cn.sandscotaicentral.com
 DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
 DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,cnbbnews.wordpress.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnnews.chosun.com
@@ -1197,6 +1207,7 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn*.akamaihd.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
@@ -1279,6 +1290,7 @@ DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freechinaweibo.com
 DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomhouse.org
+DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freedomsherald.org
 DOMAIN-SUFFIX,freegao.com
 DOMAIN-SUFFIX,freegpt.es
@@ -1452,6 +1464,7 @@ DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
 DOMAIN-SUFFIX,glarity.app
 DOMAIN-SUFFIX,glass8.eu
+DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,global.bing.com
 DOMAIN-SUFFIX,global.ssl.fastly.net
 DOMAIN-SUFFIX,globaljihad.net
@@ -1495,6 +1508,8 @@ DOMAIN-SUFFIX,goodnewsnetwork.org
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,goofind.com
+DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,google.ac
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
@@ -1842,6 +1857,8 @@ DOMAIN-SUFFIX,hk-pub.com
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hka8964.wordpress.com
+DOMAIN-SUFFIX,hkanews.wordpress.com
 DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkcitycreation.com
@@ -1895,6 +1912,8 @@ DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hqcdp.org
 DOMAIN-SUFFIX,hqjapanesesex.com
+DOMAIN-SUFFIX,hqsbnet.wordpress.com
+DOMAIN-SUFFIX,hqsbonline.wordpress.com
 DOMAIN-SUFFIX,hrichina.org
 DOMAIN-SUFFIX,hrntt.org
 DOMAIN-SUFFIX,hrw.org
@@ -1923,6 +1942,7 @@ DOMAIN-SUFFIX,huhamhire.com
 DOMAIN-SUFFIX,huhangfei.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hum*.uchicago.edu
 DOMAIN-SUFFIX,humanparty.me
 DOMAIN-SUFFIX,humanrightspressawards.org
 DOMAIN-SUFFIX,hung-ya.com
@@ -1966,6 +1986,7 @@ DOMAIN-SUFFIX,idlcoyote.com
 DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,ifan.cz.cc
 DOMAIN-SUFFIX,ifcss.org
+DOMAIN-SUFFIX,ifreechina.wordpress.com
 DOMAIN-SUFFIX,ifreewares.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,igcd.net
@@ -1990,6 +2011,7 @@ DOMAIN-SUFFIX,imagevenue.com
 DOMAIN-SUFFIX,imagezilla.net
 DOMAIN-SUFFIX,imago-images.com
 DOMAIN-SUFFIX,imb.org
+DOMAIN-SUFFIX,img*.picturedip.com
 DOMAIN-SUFFIX,img.dlsite.jp
 DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,img.picgo.net
@@ -2031,6 +2053,7 @@ DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,internetpopculture.com
 DOMAIN-SUFFIX,interseclab.org
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com
+DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,invidio.us
 DOMAIN-SUFFIX,inxian.com
@@ -2124,6 +2147,7 @@ DOMAIN-SUFFIX,jma.go.jp
 DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jmscult.com
 DOMAIN-SUFFIX,joachims.org
+DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,jornaldacidadeonline.com.br
@@ -2377,6 +2401,7 @@ DOMAIN-SUFFIX,matome-plus.net
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mcadforums.com
@@ -2442,6 +2467,7 @@ DOMAIN-SUFFIX,mingdemedia.org
 DOMAIN-SUFFIX,minghui-school.org
 DOMAIN-SUFFIX,minghui.or.kr
 DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,minghuiyw.wordpress.com
 DOMAIN-SUFFIX,mingjinglishi.com
 DOMAIN-SUFFIX,mingjingnews.com
 DOMAIN-SUFFIX,mingjingtimes.com
@@ -2869,7 +2895,6 @@ DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,picuki.com
 DOMAIN-SUFFIX,pigav.com
-DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pin-cong.com
 DOMAIN-SUFFIX,pin6.com
 DOMAIN-SUFFIX,pincong.rocks
@@ -3034,6 +3059,7 @@ DOMAIN-SUFFIX,quitccp.org
 DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,quran.com
 DOMAIN-SUFFIX,qz.com
 DOMAIN-SUFFIX,r-pool.net
@@ -3218,7 +3244,6 @@ DOMAIN-SUFFIX,sex.com
 DOMAIN-SUFFIX,sex3.com
 DOMAIN-SUFFIX,sex8.cc
 DOMAIN-SUFFIX,sexinsex.net
-DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,sfshibao.com
 DOMAIN-SUFFIX,sftuk.org
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
@@ -3372,6 +3397,7 @@ DOMAIN-SUFFIX,springboardplatform.com
 DOMAIN-SUFFIX,springwood.me
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,squirrelvpn.com
+DOMAIN-SUFFIX,ss*.4sqi.net
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ssglobal.co
 DOMAIN-SUFFIX,ssl.webpack.de
@@ -3426,6 +3452,7 @@ DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sugarsync.com
 DOMAIN-SUFFIX,sugumiru18.com
 DOMAIN-SUFFIX,suissl.com
+DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sumrando.com
 DOMAIN-SUFFIX,sundayguardianlive.com
 DOMAIN-SUFFIX,sunmedia.ca
@@ -4142,6 +4169,7 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,wo.tc
+DOMAIN-SUFFIX,wo3ttt.wordpress.com
 DOMAIN-SUFFIX,woeser.com
 DOMAIN-SUFFIX,wokar.org
 DOMAIN-SUFFIX,wolfax.com
@@ -4150,7 +4178,6 @@ DOMAIN-SUFFIX,wombo.ai
 DOMAIN-SUFFIX,woolyss.com
 DOMAIN-SUFFIX,woopie.jp
 DOMAIN-SUFFIX,woopie.tv
-DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,work2icu.org
 DOMAIN-SUFFIX,workatruna.com
 DOMAIN-SUFFIX,workerempowerment.org
@@ -4215,6 +4242,7 @@ DOMAIN-SUFFIX,xiaolan.me
 DOMAIN-SUFFIX,xiaoma.org
 DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaxiaoqiang.net
+DOMAIN-SUFFIX,xijie.wordpress.com
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xinjiangpolicefiles.org
 DOMAIN-SUFFIX,xinmiao.com.hk

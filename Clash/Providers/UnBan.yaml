@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,ssl.gstatic.com
   - DOMAIN-SUFFIX,static.typepad.com
   - DOMAIN-SUFFIX,synology.me
+  - DOMAIN-SUFFIX,tokenplus.app
   - DOMAIN-SUFFIX,tools.google.com
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,update.googleapis.com
